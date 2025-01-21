@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/models/rknn/rk3566"/>
+    <qresource prefix="/">
+        <file>models/rknn/rk3566/age_googlenet.rknn</file>
+        <file>models/rknn/rk3566/gender_googlenet.rknn</file>
+    </qresource>
+</RCC>

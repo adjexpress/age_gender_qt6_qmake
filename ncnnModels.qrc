@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>models/ncnn/age_googlenet.bin</file>
+        <file>models/ncnn/age_googlenet.param</file>
+        <file>models/ncnn/gender_googlenet.bin</file>
+        <file>models/ncnn/gender_googlenet.param</file>
+    </qresource>
+</RCC>
