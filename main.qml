@@ -281,7 +281,7 @@ Window {
                 }
                 if(messageSetting.dAge){
                     wsMsg.MinAge= mina
-                    wsMsg.MaxAge= mina
+                    wsMsg.MaxAge= maxa
                 }
                 if(messageSetting.dCount){
                     wsMsg.MaleCount = mc
